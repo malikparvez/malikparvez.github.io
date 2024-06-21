@@ -11,9 +11,6 @@ I am an Open-source contributor skilled in Ruby, Python, JavaScript, and ShellSc
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikparvez&show_icons=true&theme=radical)
 
-## My GitHub Activity Graph
-
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=malikparvez&theme=dracula)
 
 ## My GitHub Trophies
 
